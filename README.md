@@ -15,7 +15,7 @@ ______________ Membres du groupe ____________
 
 - Lien `Figma` de la Présentation de la soutenance : https://www.figma.com/file/M9gbIb8deU8NdDzrD2kF0C/Restitution-technique?type=design&node-id=9%3A2&mode=design&t=Mnb8coniAz4JBkGp-1
 
-    - En premier, n'oubliez pas de connecter la db dans le fichier `bdd_connect.php`.
+    - En premier, n'oubliez pas de connecter la db dans le fichier `bdd_connect.php` après avoir chargé le fichier `groupe4.sql` de la db.
 
 - Toutes les attentes du projet ont été comblés et en plus des fonctionnalités demandées :
     
