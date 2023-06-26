@@ -7,8 +7,10 @@
     session_start_prim ();
    require "../users/verification_token.php";
        if (isset($_SESSION['individu_connecte']['role']) && ($_SESSION['individu_connecte']['role'] == "management")|| $_SESSION['individu_connecte']['role']== "sudo") {
-    ?>
-    <!DOCTYPE html>
+
+            if ($methode==="GET")
+            {?>
+                 <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -32,9 +34,6 @@
         include('header2.php');
         ?>
 <br>
-        <?php
-            if ($methode==="GET")
-            {?>
             <form action="./enregistrement.php" method="post" class="formulaire_enregistrement_logement" enctype="multipart/form-data">
                         <?php 
                 if (isset($_SESSION["donnees_justes"]) && $_SESSION["donnees_justes"] ===false) {
