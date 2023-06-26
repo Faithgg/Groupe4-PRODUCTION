@@ -35,7 +35,7 @@ require "./style/header_style.css";
 </div>
 <div class="conteneur">
       <div class="photo">
-        <img src="../medias/images/profil2.jpg" alt="">
+        <img src="../medias/images/profil2.jpg" alt="Problème d'affichage du fichier sinon le chemin est BON">
     </div>
 <div class="dash">
   
