@@ -1,14 +1,13 @@
-------------------------------- Production GROUPE 4 ------------------------------
+------------------------------------------------------ Production GROUPE 4 ------------------------------------------------------------------
 
-______________ Membres du groupe ____________
+**Membres du groupe**
 
-- Manuel Govinda AGBAHE
-- Mattis ALMEIDA LIMA
-- Blessing-Grace EKLOU-DOVI
-- Faithgot Letonsou GLIN DAYI
-- Hanane ISSIAKENE
-- Abraham LAWSON
-
+    - Manuel Govinda AGBAHE
+    - Mattis ALMEIDA LIMA
+    - Blessing-Grace EKLOU-DOVI
+    - Faithgot Letonsou GLIN DAYI
+    - Hanane ISSIAKENE
+    - Abraham LAWSON
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -38,3 +37,30 @@ ______________ Membres du groupe ____________
 - Dans notre développement, on a voulu changer un peu de gout avec un fichier JSON envisagé pour gérer nos requetes SQLs, il permet au lecteur du code de voir l'action qu'on émet au lieu de voir une longue requete SQL. Ça facilite la lecture du code et la modification facile d'une requete quand un truc ne marche pas lorsqu'on était en mode maintenance du projet. Une fonction est aussitot implémentée dans le fichier recuperer_Requete.php pour récuperer ces requetes plus facilement.
 
 - On a essayé de gérer le RESPONSIVE au mieux qu'on peut.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1429" alt="Capture d’écran 2023-07-14 à 08 38 16" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/87e63857-f409-4b1a-bbc4-9bebe11e8027">
+
+<img width="1429" alt="Capture d’écran 2023-07-14 à 08 38 44" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/9b72555e-13ea-42ae-ae6e-6f92d9126110">
+
+<img width="1429" alt="Capture d’écran 2023-07-14 à 08 39 13" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/854cc714-6389-4177-adcb-3707a6dde10a">
+
+<img width="1429" alt="Capture d’écran 2023-07-14 à 08 40 23" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/99bfa654-090f-4fd1-9bd0-eaa0d6211dec">
+
+<img width="1440" alt="Capture d’écran 2023-07-14 à 08 41 26" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/757827ae-c1d6-4d6e-884b-890e79f02b3d">
+
+<img width="1440" alt="Capture d’écran 2023-07-14 à 08 42 00" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/7420e5e8-4233-43ce-a489-514ccf90ba30">
+
+<img width="1440" alt="Capture d’écran 2023-07-14 à 08 42 49" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/8887bdcb-97b5-4bcf-a811-d7bfd1e2daa7">
+
+<img width="1440" alt="Capture d’écran 2023-07-14 à 08 45 48" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/004b1dd5-a6f5-4ca3-afc0-f744cf6c5ad6">
+
+<img width="1431" alt="Capture d’écran 2023-07-14 à 08 47 23" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/9a366b98-526c-4580-8b2d-473354fe3a7e">
+
+<img width="1431" alt="Capture d’écran 2023-07-14 à 08 49 07" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/cf36f447-9ee3-44a1-83e3-564659fbc7f6">
+
+<img width="1440" alt="Capture d’écran 2023-07-14 à 08 50 21" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/015e5085-8a42-4a86-9749-63b20ab4cff2">
+
+<img width="1440" alt="Capture d’écran 2023-07-14 à 08 52 04" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/18b081f1-1a9e-4493-8146-24fbf2b6bba4">
+
+<img width="1440" alt="Capture d’écran 2023-07-14 à 08 52 52" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/b93826ca-0e6c-4b05-9008-81706affc320">
